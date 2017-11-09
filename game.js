@@ -1,4 +1,4 @@
-var Word = require('alphabet.js');
+var Word = require('./alphabet.js');
 
 //Game Constructor
 var Game = function(){
