@@ -1,4 +1,4 @@
-var Letter = require('./_letter.js');
+var Letter = require('./alphabet.js');
 
 //Word Constructor
 var Word = function(){
